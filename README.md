@@ -16,15 +16,15 @@ This repository contains a Nepali paraphrasing system designed to generate conte
    ```bash
    git clone https://github.com/yourusername/Nepali-Language-Paraphraser-in-Devanagari.git
 
-   ## Contributing
-  Contributions are welcome! Please follow these guidelines:
-   1. Fork the repository.
-   2. Create a new branch for your feature or bug fix.
-   3. Commit your changes with descriptive messages.
-   4. Submit a pull request.
+## Contributing
+Contributions are welcome! Please follow these guidelines:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with descriptive messages.
+4. Submit a pull request.
 
-   ## License
-   This project is licensed under the MIT License. See the LICENSE file for details.
-   
-   ## Contact
-   For questions or feedback, please contact rdbanjara07@gmail.com.
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For questions or feedback, please contact rdbanjara07@gmail.com.
