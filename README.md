@@ -11,6 +11,7 @@ The **Nepali Language Paraphraser** is a state-of-the-art platform designed to g
 
 ## Contributors
 - **Rahul Dev Banjara**
+- **Shubham Raj Joshi**
 
 ## Project Architecture
 1. **Frontend**:  
