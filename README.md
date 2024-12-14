@@ -1,4 +1,4 @@
-# Nepali Language Paraphraser in Devnagari
+# Nepali Language Paraphraser in Devanagari
 
 ## Introduction
 The **Nepali Language Paraphraser** is a state-of-the-art platform designed to generate contextually accurate paraphrases of text written in the Devanagari script. Leveraging Transformer-based models and Natural Language Processing (NLP) techniques, the system can process Nepali text to produce varied and meaningful paraphrases. The platform includes a user-friendly interface for easy text input and output.
